@@ -1,14 +1,14 @@
 ## FREEDOM is a state of MIND ##
 - >>TASK OF THE DAY-3
 
-- [x]Typing Practice-keybr.com ✓
+- Typing Practice-keybr.com ✓
 ***
-- [x]Web dev:
+- Web dev:
      - HTML INTRO(basics) ✓
 ***
-- [x]Skill rack:
+- Skill rack:
      - C- array(2pgm) ✓
 ***
-- [x]Games:
+- Games:
      - 2048 ✓
     
